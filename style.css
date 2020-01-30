@@ -1,0 +1,54 @@
+h1{
+    /* color: blue; */
+}
+
+table{
+    width: 100%;
+    
+}
+td{
+    /* background-color: red; */
+    /* padding-left: 50%;
+    padding-right: 50%; */
+    /* padding: auto; */
+}
+img{
+    height: 80%;
+    width: 80%;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 5px;
+    padding: 10px;
+}
+
+.landkit{
+    color: blue;
+    font-weight: 1200;
+    display: inline;
+}
+
+#button1{
+    border: none;
+    outline: none;
+    padding: 9px;
+    background-color: skyblue;
+    font-weight: 500;
+    font-size: 18px;
+    border-radius: 7px;
+    color: white;
+}
+
+#button2{
+    border: none;
+    outline: none;
+    padding: 9px;
+    background-color: lightgrey;
+    font-weight: 500;
+    font-size: 18px;
+    border-radius: 7px;
+    color: blue;
+}
+/* 
+Teach:
+border, magrin, padding, color, font size, height width 
+*/
